@@ -1,4 +1,4 @@
-name: ASCII WorkFlow
+name: ASCII Workflow
 
 on:
   - push
